@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbu:home|Door43 (kbu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbu|d43-kbu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbu/archive/master.zip|d43-kbu.zip]]
+
+**Recent Changes**
+{{changes>ns = kbu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbu|Ethnologue data]]
+
